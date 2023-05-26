@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import { Router, Route, Link, browserHistory, IndexRoute } from 'react-router'
+
+
 
 function App() {
   return (
